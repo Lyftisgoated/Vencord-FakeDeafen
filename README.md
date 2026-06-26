@@ -7,7 +7,7 @@ Credit to [yofukashino](https://github.com/yofukashino) and [SiriusBYT](https://
 
 # How to Install
 
-tutorial: https://youtu.be/8wexjSo8fNw
+tutorial: https://www.youtube.com/watch?v=mTjeZ2nkJcg
 
 # Known issues
 
